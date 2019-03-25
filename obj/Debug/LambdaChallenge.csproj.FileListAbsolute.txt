@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\bin\Debug\LambdaChallenge.exe.config
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\bin\Debug\LambdaChallenge.exe
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\bin\Debug\LambdaChallenge.pdb
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\obj\Debug\LambdaChallenge.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\obj\Debug\LambdaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\obj\Debug\LambdaChallenge.exe
+C:\Users\peema\source\repos\LambdaChallenge\LambdaChallenge\obj\Debug\LambdaChallenge.pdb
